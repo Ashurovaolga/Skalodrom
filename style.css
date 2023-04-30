@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+.a{
+    padding: 5px;
+    margin-left: 100px;
+}
+
+h1{
+    text-align: center;
+}
+
+.img{
+    padding: 7px;
+    border-left: 10px dotted;
+}
+
+.p{
+    border: 2px solid;
+    border-radius: 10px;
+}
+footer{
+    background-color: black;
+}
+
+footer p{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    padding: 0px;
+    margin: 10px;
+}
